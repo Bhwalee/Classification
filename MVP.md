@@ -4,6 +4,6 @@ According to men's graph, I was able to differentiate based on three features - 
 
 A clear seperation occurred for age, and medium seperation occurred blood pressure, and heart rate. 
 
-Based on these findings, I hope to implment same model for women. 
+Based on these findings, I hope to implment same model for women, and draw conclusions based on the model which detects which feature weighs heavily in determining patient's risk of getting a heart disease. 
 
 <img width="375" alt="Screen Shot 2021-10-25 at 2 39 42 PM" src="https://user-images.githubusercontent.com/86501110/138774956-ba104d42-0d95-469b-828d-9870e2844d44.png">
