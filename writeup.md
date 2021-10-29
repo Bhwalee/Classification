@@ -13,8 +13,8 @@ Datasets are found in Kaggle. It has 8 different features and based on these med
 Using classification models we learned during class, I wanted to pick the model based on strong cross-validation model. Strong feature - outcome relation shows which feature to focus on and what needs to be tweaked in order to get higher F1 score. I specifically focused on revamping Recall score because that is what correctly guesses from the total dataset. 
 
 # Tools
-Numpy and Pandas for data manipulation
-Scikit-learn for modeling
+Numpy and Pandas for data manipulation;
+Scikit-learn for modeling;
 Matplotlib and Seaborn for plotting
 
 # Communication
